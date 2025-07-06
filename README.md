@@ -1,4 +1,5 @@
-> [!WARNING] THIS PLUGIN IS NO LONGER NEEDED.  
+> [!WARNING]
+> THIS PLUGIN IS NO LONGER NEEDED.  
 > [WP Sync DB](https://github.com/jsongerber/wp-sync-db) v2 now integrate this plugin.
 
 # WP Sync DB Media Files
